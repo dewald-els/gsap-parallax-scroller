@@ -1,0 +1,18 @@
+{
+  "name": "gsap-parallax-scroller",
+  "version": "1.0.0",
+  "description": "Parallax scrolling with full size images.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dewald-els/gsap-parallax-scroller.git"
+  },
+  "keywords": [],
+  "author": "Dewald Els",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dewald-els/gsap-parallax-scroller/issues"
+  },
+  "homepage": "https://github.com/dewald-els/gsap-parallax-scroller#readme"
+}
