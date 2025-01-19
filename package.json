@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Parallax scrolling with full size images.",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "sirv ./src public --cors --single --no-clear --port 8000"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dewald-els/gsap-parallax-scroller.git"
